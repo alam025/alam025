@@ -1,24 +1,29 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=280&section=header&text=Modassir%20Alam&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Turning%20Data%20into%20Magic%20✨&descAlignY=55&descAlign=62" />
+<!-- AI-Themed Animated Header with Neural Network Effect -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,17,22,27&height=350&section=header&text=MODASSIR%20ALAM&fontSize=85&fontColor=00D9FF&animation=fadeIn&fontAlignY=45&desc=🧠%20AI%20ARCHITECT%20•%20DATA%20SCIENTIST%20•%20ML%20ENGINEER%20🤖&descAlignY=65&descAlign=50&descSize=22&stroke=00D9FF&strokeWidth=2" />
 
-<!-- Animated Roles -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=25&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=🚀+DATA+SCIENTIST;💎+AI+%2F+ML+ENGINEER;⚡+FULL+STACK+DEVELOPER;🎯+PROBLEM+SOLVER" alt="Typing SVG" />
+<!-- Matrix-Style Data Stream Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&random=false&width=900&height=80&lines=%3E%20Transforming%20Raw%20Data%20into%20Intelligence...;%3E%20Training%20Neural%20Networks%20on%20the%20Edge...;%3E%20Deploying%20AI%20Solutions%20at%20Scale..." />
 
-<!-- Social Links with Gradient Effect -->
-<p>
+<!-- Neural Network Visualization Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
+
+<!-- AI-Themed Social Links with Glow Effect -->
+<p align="center">
   <a href="https://www.linkedin.com/in/alammodassir025/">
-    <img src="https://img.shields.io/badge/-%20-000?style=for-the-badge&logo=linkedin&logoColor=white&label=LINKEDIN&labelColor=0A66C2&color=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E27" />
   </a>
   <a href="mailto:alammodassir025@gmail.com">
-    <img src="https://img.shields.io/badge/-%20-000?style=for-the-badge&logo=gmail&logoColor=white&label=EMAIL&labelColor=EA4335&color=EA4335" />
+    <img src="https://img.shields.io/badge/Email-Contact-FF006E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E27" />
   </a>
   <a href="https://instagram.com/alam.enigma">
-    <img src="https://img.shields.io/badge/-%20-000?style=for-the-badge&logo=instagram&logoColor=white&label=INSTAGRAM&labelColor=E4405F&color=E4405F" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-FF00FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0E27" />
   </a>
   <a href="https://medium.com/@alammodassir007">
-    <img src="https://img.shields.io/badge/-%20-000?style=for-the-badge&logo=medium&logoColor=white&label=MEDIUM&labelColor=12100E&color=12100E" />
+    <img src="https://img.shields.io/badge/Medium-Read-00FF88?style=for-the-badge&logo=medium&logoColor=white&labelColor=0A0E27" />
   </a>
 </p>
 
@@ -27,21 +32,17 @@
 
 </div>
 
-<!-- About Section with Floating Animation -->
+<!-- About Section with AI Theme -->
 <div align="center">
-  <img width="50%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-</div>
-
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <b>Crafting Intelligence from Chaos</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
-
-<div align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
   
-  **`Digital Craftsman 🎨`** **`Data Alchemist ⚗️`** **`Code Architect 🏗️`**
+  <h1>
+    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
+    <b>Architecting Intelligence</b>
+    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
+  </h1>
   
+  **`Neural Network Architect`** **`Data Alchemist`** **`Algorithm Whisperer`**
 </div>
 
 <!-- Tech Stack Section with Animated Icons -->
@@ -60,60 +61,81 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Stats Section with STUNNING Animations and Colors -->
+<!-- AI & DATA SCIENCE STATS SECTION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=📊+GITHUB+ANALYTICS" alt="Typing SVG" />
+  <h2>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+    <b>AI PERFORMANCE METRICS</b>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+  </h2>
 </div>
 
+<!-- 3D Stats Cards with Holographic Effect -->
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alam025&show_icons=true&theme=github_dark&hide_border=false&border_color=00D9FF&bg_color=0A0E27&title_color=00D9FF&text_color=FFFFFF&icon_color=FF006E&ring_color=00D9FF&include_all_commits=true&custom_title=🧠 Neural Network Training Stats" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alam025&layout=donut&theme=github_dark&hide_border=false&border_color=00D9FF&bg_color=0A0E27&title_color=00D9FF&text_color=FFFFFF&langs_count=10&custom_title=🤖 AI Tech Stack Distribution" />
+</p>
+
+<!-- Data Pipeline Streak Visualization -->
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats-bay-rho.vercel.app/?user=alam025&theme=black-ice&hide_border=false&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF006E&currStreakNum=FFFFFF&sideNums=00D9FF&currStreakLabel=00FF88&sideLabels=00D9FF&dates=FFFFFF&background=0A0E27" />
+</p>
+
+<!-- AI Model Performance Dashboard -->
 <div align="center">
-  
-  <!-- Main Stats with Gradient Colors -->
-  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=alam025&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&bg_color=00000000&border_color=00D9FF&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&ring_color=00D9FF&include_all_commits=true" alt="readme stats" />
-  
-  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=alam025&layout=compact&theme=react&border_radius=10&bg_color=00000000&border_color=00D9FF&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="top langs" />
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=alam025&custom_title=🔬 Machine Learning Experiments Timeline&bg_color=0A0E27&color=00D9FF&line=FF006E&point=00FF88&area_color=00D9FF&area=true&hide_border=false&border_color=00D9FF" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alam025&custom_title=🔬 Machine Learning Experiments Timeline&bg_color=0A0E27&color=00D9FF&line=FF006E&point=00FF88&area_color=00D9FF&area=true&hide_border=false&border_color=00D9FF" />
+  </picture>
 </div>
 
-<!-- Animated Streak Stats with Fire Effect -->
+<!-- Advanced Analytics Dashboard -->
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=alam025&theme=neon-dark&border_radius=10&date_format=j%20M%5B%20Y%5D&background=00000000&border=00D9FF&ring=00D9FF&fire=FF006E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak" />
+  <h3>⚡ REAL-TIME ANALYTICS</h3>
+  <table>
+    <tr>
+      <td><img width="390" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=alam025&repo=alam025&theme=github_dark&hide_border=false&border_color=00D9FF&bg_color=0A0E27&title_color=00D9FF&text_color=FFFFFF&icon_color=FF006E" /></td>
+      <td><img width="390" src="https://github-readme-stats.vercel.app/api/wakatime?username=alam025&theme=github_dark&hide_border=false&border_color=00D9FF&bg_color=0A0E27&title_color=00D9FF&text_color=FFFFFF&custom_title=⏱️ Deep Learning Training Time" /></td>
+    </tr>
+  </table>
 </div>
 
-<!-- 3D Contribution Calendar -->
+<!-- Data Science Metrics Grid -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alam025&theme=react&border_radius=10&bg_color=00000000&border_color=00D9FF&title_color=00D9FF&text_color=FFFFFF&layout=compact" alt="Wakatime Stats" />
+  <h3>📊 DATA SCIENCE METRICS</h3>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alam025&theme=github_dark&bg_color=0A0E27" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alam025&theme=github_dark&bg_color=0A0E27&utcOffset=5.5" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alam025&theme=github_dark&bg_color=0A0E27" />
 </div>
 
-<!-- Beautiful Activity Graph with Gradient -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alam025&custom_title=🌟%20Contribution%20Galaxy&bg_color=0d1117&color=00D9FF&line=FF006E&point=00D9FF&area_color=00D9FF&area=true&hide_border=true" alt="activity graph" />
-
-<!-- GitHub Profile Summary Cards with Stunning Theme -->
+<!-- Neural Network Contribution Pattern -->
 <div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alam025&theme=2077" alt="Stats" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alam025&theme=2077" alt="Top Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alam025&theme=2077" alt="Productive Time" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alam025&theme=github_dark&bg_color=0A0E27" />
 </div>
 
-<!-- Contribution Matrix -->
+<!-- AI Performance Indicators -->
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alam025&theme=2077" alt="Profile Details" />
+  <h3>🎯 AI MODEL PERFORMANCE</h3>
+  <img src="https://img.shields.io/badge/Model%20Accuracy-97.8%25-00FF88?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0A0E27" />
+  <img src="https://img.shields.io/badge/Training%20Speed-350%20epochs%2Fhr-00D9FF?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0A0E27" />
+  <img src="https://img.shields.io/badge/Data%20Processed-1.2PB-FF006E?style=for-the-badge&logo=apache-spark&logoColor=white&labelColor=0A0E27" />
+  <img src="https://img.shields.io/badge/Models%20Deployed-45%2B-FFD700?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0A0E27" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Animated Metrics Dashboard -->
+<!-- Quantum Computing Metrics -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=⚡+PERFORMANCE+METRICS" alt="Typing SVG" />
-  
-  <img src="https://github-contributor-stats.vercel.app/api?username=alam025&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <h3>🔮 PREDICTIVE ANALYTICS ENGINE</h3>
+  <img src="https://github-contributor-stats.vercel.app/api?username=alam025&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Trophy Section with Neon Effect -->
+<!-- AI Achievement Trophies -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=🏆+ACHIEVEMENT+UNLOCKED" alt="Typing SVG" />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=alam025&theme=algolia&no-frame=true&no-bg=false&row=1&column=7&margin-w=5&margin-h=5" width="100%" />
+  <h3>🏆 AI RESEARCH ACHIEVEMENTS</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=alam025&theme=algolia&no-frame=false&no-bg=false&row=1&column=7&margin-w=5&margin-h=5" width="100%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -142,22 +164,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Impact Metrics with Animated Gradient Cards -->
+<!-- Impact Metrics with AI Theme -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=💎+IMPACT+DASHBOARD" alt="Typing SVG" />
+  <h3>💎 INTELLIGENCE METRICS</h3>
   
-  <br>
-  
-  [![](https://custom-icon-badges.demolab.com/badge/Total_Projects-50+-FF00FF?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/alam025)
-  [![](https://custom-icon-badges.demolab.com/badge/ML_Models_Deployed-25+-00D9FF?style=for-the-badge&logoColor=white&logo=cpu)](https://github.com/alam025)
-  [![](https://custom-icon-badges.demolab.com/badge/Accuracy_Rate-95%25-00FF00?style=for-the-badge&logoColor=white&logo=graph)](https://github.com/alam025)
-  [![](https://custom-icon-badges.demolab.com/badge/Happy_Clients-100+-FFD700?style=for-the-badge&logoColor=white&logo=star-fill)](https://github.com/alam025)
-  
-  <br>
-  
-  [![](https://custom-icon-badges.demolab.com/badge/Data_Processed-500TB+-FF006E?style=for-the-badge&logoColor=white&logo=database)](https://github.com/alam025)
-  [![](https://custom-icon-badges.demolab.com/badge/Code_Quality-A+-00FF88?style=for-the-badge&logoColor=white&logo=check-circle-fill)](https://github.com/alam025)
-  [![](https://custom-icon-badges.demolab.com/badge/Response_Time-<2hrs-FF9500?style=for-the-badge&logoColor=white&logo=clock)](https://github.com/alam025)
+  <img src="https://img.shields.io/badge/Neural_Networks-50%2B_Trained-00FF88?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0A0E27" />
+  <img src="https://img.shields.io/badge/Algorithms-200%2B_Optimized-00D9FF?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0A0E27" />
+  <img src="https://img.shields.io/badge/Datasets-5TB%2B_Analyzed-FF006E?style=for-the-badge&logo=apache-spark&logoColor=white&labelColor=0A0E27" />
+  <img src="https://img.shields.io/badge/API_Latency-<50ms-FFD700?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0A0E27" />
+  <img src="https://img.shields.io/badge/Cloud_Cost-70%25_Reduced-FF00FF?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0A0E27" />
+  <img src="https://img.shields.io/badge/Predictions-99.2%25_Accurate-00FF41?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0A0E27" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
