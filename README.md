@@ -60,27 +60,60 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Stats Section with Better Colors and Animations -->
-<h2 align="center">📊 Epic Stats</h2>
-
+<!-- Stats Section with STUNNING Animations and Colors -->
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alam025&show_icons=true&count_private=true&hide_border=true&title_color=FF6B6B&icon_color=FFD93D&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alam025&layout=compact&hide_border=true&title_color=FF6B6B&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=📊+GITHUB+ANALYTICS" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alam025&theme=highcontrast&hide_border=true&stroke=0000&background=0D1117&ring=FF6B6B&fire=FFD93D&currStreakLabel=FFD93D" width="70%" />
+  
+  <!-- Main Stats with Gradient Colors -->
+  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=alam025&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&bg_color=00000000&border_color=00D9FF&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&ring_color=00D9FF&include_all_commits=true" alt="readme stats" />
+  
+  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=alam025&layout=compact&theme=react&border_radius=10&bg_color=00000000&border_color=00D9FF&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="top langs" />
+  
 </div>
 
-<!-- Activity Graph with Custom Theme -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alam025&custom_title=🎯%20Contribution%20Heatmap&bg_color=0d1117&color=FFD93D&line=FF6B6B&point=FFD93D&area=true&hide_border=true" width="100%"/>
+<!-- Animated Streak Stats with Fire Effect -->
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=alam025&theme=neon-dark&border_radius=10&date_format=j%20M%5B%20Y%5D&background=00000000&border=00D9FF&ring=00D9FF&fire=FF006E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak" />
+</div>
+
+<!-- 3D Contribution Calendar -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alam025&theme=react&border_radius=10&bg_color=00000000&border_color=00D9FF&title_color=00D9FF&text_color=FFFFFF&layout=compact" alt="Wakatime Stats" />
+</div>
+
+<!-- Beautiful Activity Graph with Gradient -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alam025&custom_title=🌟%20Contribution%20Galaxy&bg_color=0d1117&color=00D9FF&line=FF006E&point=00D9FF&area_color=00D9FF&area=true&hide_border=true" alt="activity graph" />
+
+<!-- GitHub Profile Summary Cards with Stunning Theme -->
+<div align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alam025&theme=2077" alt="Stats" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alam025&theme=2077" alt="Top Language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alam025&theme=2077" alt="Productive Time" />
+</div>
+
+<!-- Contribution Matrix -->
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alam025&theme=2077" alt="Profile Details" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Trophy Section -->
+<!-- Animated Metrics Dashboard -->
 <div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=alam025&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=5&margin-h=5" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=⚡+PERFORMANCE+METRICS" alt="Typing SVG" />
+  
+  <img src="https://github-contributor-stats.vercel.app/api?username=alam025&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Trophy Section with Neon Effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=🏆+ACHIEVEMENT+UNLOCKED" alt="Typing SVG" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=alam025&theme=algolia&no-frame=true&no-bg=false&row=1&column=7&margin-w=5&margin-h=5" width="100%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -109,14 +142,22 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Impact Metrics with Animated Cards -->
+<!-- Impact Metrics with Animated Gradient Cards -->
 <div align="center">
-  <h2>💥 Impact Metrics</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=💎+IMPACT+DASHBOARD" alt="Typing SVG" />
   
-  [![](https://img.shields.io/badge/Projects-50+-FF6B6B?style=for-the-badge&labelColor=0D1117&color=FF6B6B)](https://github.com/alam025)
-  [![](https://img.shields.io/badge/ML_Models-25+-FFD93D?style=for-the-badge&labelColor=0D1117&color=FFD93D)](https://github.com/alam025)
-  [![](https://img.shields.io/badge/Accuracy-95%25-6BCB77?style=for-the-badge&labelColor=0D1117&color=6BCB77)](https://github.com/alam025)
-  [![](https://img.shields.io/badge/Happy_Clients-100+-4FC3F7?style=for-the-badge&labelColor=0D1117&color=4FC3F7)](https://github.com/alam025)
+  <br>
+  
+  [![](https://custom-icon-badges.demolab.com/badge/Total_Projects-50+-FF00FF?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/alam025)
+  [![](https://custom-icon-badges.demolab.com/badge/ML_Models_Deployed-25+-00D9FF?style=for-the-badge&logoColor=white&logo=cpu)](https://github.com/alam025)
+  [![](https://custom-icon-badges.demolab.com/badge/Accuracy_Rate-95%25-00FF00?style=for-the-badge&logoColor=white&logo=graph)](https://github.com/alam025)
+  [![](https://custom-icon-badges.demolab.com/badge/Happy_Clients-100+-FFD700?style=for-the-badge&logoColor=white&logo=star-fill)](https://github.com/alam025)
+  
+  <br>
+  
+  [![](https://custom-icon-badges.demolab.com/badge/Data_Processed-500TB+-FF006E?style=for-the-badge&logoColor=white&logo=database)](https://github.com/alam025)
+  [![](https://custom-icon-badges.demolab.com/badge/Code_Quality-A+-00FF88?style=for-the-badge&logoColor=white&logo=check-circle-fill)](https://github.com/alam025)
+  [![](https://custom-icon-badges.demolab.com/badge/Response_Time-<2hrs-FF9500?style=for-the-badge&logoColor=white&logo=clock)](https://github.com/alam025)
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
