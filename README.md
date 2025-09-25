@@ -56,11 +56,11 @@ Hi there! I'm a passionate Data Scientist, Data Analyst, and Web Developer who l
 <!-- Additional Analytics Widgets -->
 <div align="center">
 
-<!-- Contribution Calendar Heatmap -->
-<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=alam025&theme=radical&hide_border=false&title_color=FF1744&text_color=FFFFFF&bg_color=0D1117" />
-
 <!-- Code Distribution Pie Chart Style -->
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alam025&layout=pie&theme=radical&hide_border=false&title_color=FF1744&text_color=FFFFFF&bg_color=0D1117" />
+
+<!-- Contribution Heatmap Alternative -->
+<img width="100%" src="https://github-contributor-stats.vercel.app/api?username=alam025&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 
 </div>
 
@@ -90,5 +90,42 @@ Hi there! I'm a passionate Data Scientist, Data Analyst, and Web Developer who l
   <img alt="github-snake" src="https://raw.githubusercontent.com/alam025/alam025/output/github-snake.svg" />
 </picture>
 </div>
+
+---
+
+# 🤝 Let's Collaborate & Build Amazing Things Together!
+
+<div align="center">
+
+<!-- Collaboration Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+
+<!-- Collaboration Badges -->
+<img src="https://img.shields.io/badge/🚀_Open_for_Collaboration-FF1744?style=for-the-badge&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/💡_AI_Projects-E91E63?style=for-the-badge&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/🔬_Research_Partnerships-FF5722?style=for-the-badge&logoColor=white&labelColor=000000" />
+
+<!-- Connect Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+
+<!-- Connect Button -->
+<a href="https://www.linkedin.com/in/alammodassir025/">
+<img src="https://img.shields.io/badge/🤝_CONNECT_WITH_ME-FF1744?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&height=50" />
+</a>
+
+<!-- Dinosaur Game Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd5-9bdf-44f21c7426ad.gif" width="400">
+
+<!-- Thank You Animation -->
+<h2>🌟 Thanks for Visiting my Digital Universe! 🌟</h2>
+
+<!-- Two Smiley Balls Eating Each Other Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="100">
+
+</div>
+
+<!-- Final Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,21,22,23,24&height=120&section=footer&animation=twinkling&fontSize=30&fontColor=FF1744&text=Keep%20Building%20%7C%20Keep%20Learning%20%7C%20Keep%20Growing&fontAlignY=75" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
