@@ -57,10 +57,16 @@ Hi there! I'm a passionate Data Scientist, Data Analyst, and Web Developer who l
 <div align="center">
 
 <!-- Code Distribution Pie Chart Style -->
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alam025&layout=pie&theme=radical&hide_border=false&title_color=FF1744&text_color=FFFFFF&bg_color=0D1117" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alam025&layout=pie&theme=radical&hide_border=false&title_color=FF1744&text_color=FFFFFF&bg_color=0D1117" />
+
+<!-- Scatter Plot Style Contribution Graph -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=alam025&repo=alam025&theme=radical&hide_border=false&title_color=FF1744&text_color=FFFFFF&bg_color=0D1117&icon_color=E91E63" />
 
 <!-- Contribution Heatmap Alternative -->
 <img width="100%" src="https://github-contributor-stats.vercel.app/api?username=alam025&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+
+<!-- Bubble Chart Style Analytics -->
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=alam025&show_icons=true&theme=radical&hide_border=false&title_color=FF1744&text_color=FFFFFF&bg_color=0D1117&icon_color=E91E63&count_private=true&include_all_commits=true&show_owner=true&card_width=800&custom_title=📊%20Repository%20Analytics%20Bubble%20View" />
 
 </div>
 
@@ -105,6 +111,9 @@ Hi there! I'm a passionate Data Scientist, Data Analyst, and Web Developer who l
 <img src="https://img.shields.io/badge/💡_AI_Projects-E91E63?style=for-the-badge&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/🔬_Research_Partnerships-FF5722?style=for-the-badge&logoColor=white&labelColor=000000" />
 
+<!-- Dinosaur Game Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd5-9bdf-44f21c7426ad.gif" width="400">
+
 <!-- Connect Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
@@ -113,11 +122,11 @@ Hi there! I'm a passionate Data Scientist, Data Analyst, and Web Developer who l
 <img src="https://img.shields.io/badge/🤝_CONNECT_WITH_ME-FF1744?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&height=50" />
 </a>
 
-<!-- Dinosaur Game Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd5-9bdf-44f21c7426ad.gif" width="400">
-
 <!-- Thank You Animation -->
 <h2>🌟 Thanks for Visiting my Digital Universe! 🌟</h2>
+
+<!-- Chrome Dinosaur Game -->
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd5-9bdf-44f21c7426ad.gif" width="600">
 
 <!-- Two Smiley Balls Eating Each Other Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="100">
