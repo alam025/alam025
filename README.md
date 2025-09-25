@@ -1,137 +1,147 @@
-# MODASSIR ALAM
-## 🧠 AI Architect • Data Scientist • ML Engineer 🤖
-
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,17,22,27&height=300&section=header&text=MODASSIR%20ALAM&fontSize=75&fontColor=00D9FF&animation=fadeIn&fontAlignY=45&desc=🧠%20AI%20ARCHITECT%20•%20DATA%20SCIENTIST%20•%20ML%20ENGINEER%20🤖&descAlignY=65&descAlign=50&descSize=20&stroke=00D9FF&strokeWidth=2" />
+<!-- Zomato-themed Header with Neural Network Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=350&section=header&text=MODASSIR%20ALAM&fontSize=85&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=🧠%20AI%20ARCHITECT%20•%20NEURAL%20NETWORK%20ENGINEER%20🤖&descAlignY=65&descAlign=50&descSize=22&stroke=FF6B35&strokeWidth=3" />
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&random=false&width=900&height=80&lines=%3E%20Transforming%20Raw%20Data%20into%20Intelligence...;%3E%20Training%20Neural%20Networks%20on%20the%20Edge...;%3E%20Building%20the%20Future%20with%20AI...)](https://git.io/typing-svg)
+<!-- Matrix-Style Data Stream Animation - ONLY 2 LINES -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=FF6B35&center=true&vCenter=true&multiline=true&random=false&width=1000&height=70&lines=%3E%20Training%20Neural%20Networks%20at%20Scale...;%3E%20Deploying%20AI%20Models%20in%20Production..." />
 
-<!-- Social Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E27)](https://www.linkedin.com/in/alammodassir025/)
-[![Email](https://img.shields.io/badge/Email-Contact-FF006E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E27)](mailto:alammodassir025@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-FF00FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0E27)](https://instagram.com/alam.enigma)
-[![Medium](https://img.shields.io/badge/Medium-Read-00FF88?style=for-the-badge&logo=medium&logoColor=white&labelColor=0A0E27)](https://medium.com/@alammodassir007)
+<!-- Neural Network Brain Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<!-- Zomato-Themed Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/alammodassir025/">
+    <img src="https://img.shields.io/badge/-LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=25&labelColor=E23744" />
+  </a>
+  <a href="mailto:alammodassir025@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-E23744?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=25&labelColor=FF6B35" />
+  </a>
+  <a href="https://instagram.com/alam.enigma">
+    <img src="https://img.shields.io/badge/-Instagram-FF6B35?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=25&labelColor=E23744" />
+  </a>
+  <a href="https://medium.com/@alammodassir007">
+    <img src="https://img.shields.io/badge/-Medium-E23744?style=for-the-badge&logo=medium&logoColor=white&logoWidth=25&labelColor=FF6B35" />
+  </a>
+</p>
 
 </div>
 
----
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
 
-## 🚀 About Me
-
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Modassir Alam"
-        self.role = "AI Architect & Data Scientist"
-        self.expertise = ["Deep Learning", "MLOps", "Computer Vision", "NLP"]
-        self.current_focus = ["Transformer Models", "Edge AI", "Model Optimization"]
-        
-    def get_skills(self):
-        return {
-            "languages": ["Python", "R", "SQL", "JavaScript"],
-            "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn", "Keras"],
-            "cloud_platforms": ["AWS", "GCP", "Azure"],
-            "tools": ["Docker", "Kubernetes", "MLflow", "Apache Spark"]
-        }
-        
-    def current_projects(self):
-        return [
-            "🤖 Developing multi-modal AI systems",
-            "📊 Building real-time ML pipelines",
-            "🔬 Researching efficient model architectures"
-        ]
-```
-
----
-
-## 🛠️ Tech Arsenal
-
+<!-- Tech Stack with Animated Icons - NO TEXT -->
 <div align="center">
-
-### Core Technologies
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-Advanced-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-Advanced-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-Advanced-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-
-### Development Tools
-![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-Daily-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Daily-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+  
+  <!-- AI/ML Framework Icons -->
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" width="180" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+  <img src="https://skillicons.dev/icons?i=sklearn,opencv&theme=dark" width="120" />
+  
+  <br><br>
+  
+  <!-- Cloud & DevOps Icons -->
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark" width="180" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  <img src="https://skillicons.dev/icons?i=jenkins,git,linux&theme=dark" width="180" />
+  
+  <br><br>
+  
+  <!-- Database & Tools Icons -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" width="180" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://skillicons.dev/icons?i=redis,elasticsearch&theme=dark" width="120" />
+  
 </div>
 
----
+<!-- AI Performance Dashboard -->
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
 
-## 📊 GitHub Analytics
-
+<!-- Zomato-Themed Stats Grid -->
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alam025&show_icons=true&theme=github_dark&hide_border=false&border_color=00D9FF&bg_color=0A0E27&title_color=00D9FF&text_color=FFFFFF&icon_color=FF006E&count_private=true&include_all_commits=true&custom_title=🧠%20Neural%20Network%20Training%20Stats" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alam025&theme=black-ice&hide_border=false&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF006E&currStreakNum=FFFFFF&sideNums=00D9FF&currStreakLabel=00FF88&sideLabels=00D9FF&dates=FFFFFF&background=0A0E27" />
-
+  
+  <!-- Main Stats Cards -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alam025&show_icons=true&theme=radical&hide_border=false&border_color=FF6B35&bg_color=1A1A2E&title_color=FF6B35&text_color=FFFFFF&icon_color=E23744&count_private=true&include_all_commits=true" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alam025&theme=radical&hide_border=false&border=FF6B35&stroke=FF6B35&ring=E23744&fire=FF6B35&currStreakNum=FFFFFF&sideNums=E23744&currStreakLabel=FF6B35&sideLabels=E23744&dates=FFFFFF&background=1A1A2E" />
+  
 </div>
 
+<br>
+
+<!-- Language Distribution -->
 <div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alam025&layout=compact&theme=github_dark&hide_border=false&border_color=00D9FF&bg_color=0A0E27&title_color=00D9FF&text_color=FFFFFF&langs_count=8&custom_title=🤖%20AI%20Tech%20Stack%20Distribution" />
-
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alam025&layout=compact&theme=radical&hide_border=false&border_color=FF6B35&bg_color=1A1A2E&title_color=FF6B35&text_color=FFFFFF&langs_count=10" />
 </div>
 
----
-
-## 🎯 Current Focus Areas
-
+<!-- AI Metrics with Zomato Colors -->
 <div align="center">
-
-| 🔬 Research | ☁️ Production | 📈 Optimization |
-|-------------|---------------|-----------------|
-| **Transformer Architectures** | **MLOps Pipelines** | **Model Compression** |
-| Vision Transformers | Kubernetes Deployments | Quantization Techniques |
-| Multi-modal Models | CI/CD for ML | Edge AI Solutions |
-| Attention Mechanisms | Model Monitoring | Hardware Acceleration |
-
+  <br>
+  <img src="https://img.shields.io/badge/🤖_Models_Trained-150+-FF6B35?style=for-the-badge&logoColor=white&labelColor=E23744" />
+  <img src="https://img.shields.io/badge/📊_Data_Processed-5.2TB-E23744?style=for-the-badge&logoColor=white&labelColor=FF6B35" />
+  <img src="https://img.shields.io/badge/⚡_Model_Accuracy-98.7%25-FF6B35?style=for-the-badge&logoColor=white&labelColor=E23744" />
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/🚀_APIs_Deployed-25+-E23744?style=for-the-badge&logoColor=white&labelColor=FF6B35" />
+  <img src="https://img.shields.io/badge/⏱️_Latency-<30ms-FF6B35?style=for-the-badge&logoColor=white&labelColor=E23744" />
+  <img src="https://img.shields.io/badge/☁️_Cloud_Savings-65%25-E23744?style=for-the-badge&logoColor=white&labelColor=FF6B35" />
 </div>
 
----
-
-## 🏆 AI Performance Metrics
-
+<!-- Activity Graph with Zomato Theme -->
 <div align="center">
-
-![Model Accuracy](https://img.shields.io/badge/Model%20Accuracy-97.8%25-00FF88?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0A0E27)
-![Training Speed](https://img.shields.io/badge/Training%20Speed-350%20epochs%2Fhr-00D9FF?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0A0E27)
-![Data Processed](https://img.shields.io/badge/Data%20Processed-1.2PB-FF006E?style=for-the-badge&logo=apache-spark&logoColor=white&labelColor=0A0E27)
-![Models Deployed](https://img.shields.io/badge/Models%20Deployed-45%2B-FFD700?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0A0E27)
-![API Latency](https://img.shields.io/badge/API_Latency-<50ms-FF00FF?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0A0E27)
-![Predictions Accuracy](https://img.shields.io/badge/Predictions-99.2%25_Accurate-00FF41?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0A0E27)
-
+  <br>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=alam025&bg_color=1A1A2E&color=FF6B35&line=E23744&point=FFFFFF&area_color=FF6B35&area=true&hide_border=false&custom_title=🔬%20AI%20Development%20Activity" />
 </div>
 
----
-
-## 📈 Activity Graph
-
+<!-- Detailed Stats Grid -->
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alam025&custom_title=🔬%20Machine%20Learning%20Experiments%20Timeline&bg_color=0A0E27&color=00D9FF&line=FF006E&point=00FF88&area_color=00D9FF&area=true&hide_border=false" />
+  <br>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alam025&theme=radical" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alam025&theme=radical&utcOffset=5.5" />
+  
+  <br><br>
+  
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alam025&theme=radical" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alam025&theme=radical" />
 </div>
 
----
-
-## 🐍 Contribution Snake
-
+<!-- Full Profile Details -->
 <div align="center">
+  <br>
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alam025&theme=radical" />
+</div>
+
+<!-- Achievement Trophies -->
+<div align="center">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=alam025&theme=radical&no-frame=false&no-bg=false&row=2&column=6&margin-w=5&margin-h=5" width="100%" />
+</div>
+
+<!-- Current Focus Visual Grid -->
+<div align="center">
+  <br>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="120px">
+        <br><b>🧠 Deep Learning</b>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="120px">
+        <br><b>☁️ MLOps</b>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="120px">
+        <br><b>📊 Big Data</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Contribution Snake Animation -->
+<div align="center">
+  <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alam025/alam025/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alam025/alam025/output/github-snake.svg" />
@@ -139,44 +149,17 @@ class AIEngineer:
   </picture>
 </div>
 
----
-
-## 🏆 Achievements
-
+<!-- Visitor Count with Zomato Colors -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alam025&theme=algolia&no-frame=false&no-bg=false&row=1&column=7&margin-w=5&margin-h=5" width="100%" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=alam025&style=for-the-badge&color=FF6B35&label=AI+LAB+VISITORS&labelColor=E23744" />
 </div>
 
----
-
-## 💡 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🤖 [Building Efficient Transformer Models for Edge Devices](https://medium.com/@alammodassir007)
-- 📊 [MLOps Best Practices: From Jupyter to Production](https://medium.com/@alammodassir007)
-- 🔬 [Understanding Attention Mechanisms in Deep Learning](https://medium.com/@alammodassir007)
-- ☁️ [Scaling ML Models with Kubernetes and Docker](https://medium.com/@alammodassir007)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤝 Let's Collaborate!
-
+<!-- Neural Network Footer Animation -->
 <div align="center">
-
-**🌟 Always excited to collaborate on innovative AI projects!**
-
-[![LinkedIn](https://img.shields.io/badge/Connect_for_AI_Collaboration-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E27&logoWidth=30&height=40)](https://www.linkedin.com/in/alammodassir025/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=alam025&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS&labelColor=0A0E27)
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,22,27&height=120&section=footer&animation=twinkling&fontSize=35&fontColor=00D9FF&text=Thanks%20for%20visiting%20my%20AI%20Lab!&fontAlignY=65" />
-
+  <br>
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
 </div>
 
----
-
-<div align="center">
-  <i>"The best way to predict the future is to invent it." - Alan Kay</i>
-</div>
+<!-- Zomato-Themed Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=150&section=footer&animation=twinkling&fontSize=40&fontColor=FFFFFF&text=🚀%20Building%20AI%20for%20Tomorrow&fontAlignY=75" />
