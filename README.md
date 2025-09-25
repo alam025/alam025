@@ -59,8 +59,8 @@ Hi there! I'm a passionate Data Scientist, Data Analyst, and Web Developer who l
 <!-- Code Distribution Pie Chart Style -->
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alam025&layout=pie&theme=radical&hide_border=false&title_color=FF1744&text_color=FFFFFF&bg_color=0D1117" />
 
-<!-- Scatter Plot Style Contribution Graph -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=alam025&repo=alam025&theme=radical&hide_border=false&title_color=FF1744&text_color=FFFFFF&bg_color=0D1117&icon_color=E91E63" />
+<!-- Scatter Plot Alternative - Language Distribution -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alam025&layout=donut&theme=radical&hide_border=false&title_color=FF1744&text_color=FFFFFF&bg_color=0D1117" />
 
 <!-- Contribution Heatmap Alternative -->
 <img width="100%" src="https://github-contributor-stats.vercel.app/api?username=alam025&limit=5&theme=radical&combine_all_yearly_contributions=true" />
@@ -125,8 +125,8 @@ Hi there! I'm a passionate Data Scientist, Data Analyst, and Web Developer who l
 <!-- Thank You Animation -->
 <h2>🌟 Thanks for Visiting my Digital Universe! 🌟</h2>
 
-<!-- Chrome Dinosaur Game -->
-<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd5-9bdf-44f21c7426ad.gif" width="600">
+<!-- Chrome Dinosaur Running Game Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd5-9bdf-44f21c7426ad.gif" width="800">
 
 <!-- Two Smiley Balls Eating Each Other Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif" width="100">
